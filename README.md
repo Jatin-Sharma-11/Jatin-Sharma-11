@@ -1,54 +1,51 @@
-<img src="topbanner.gif">
+Hi, I'm Jatin Sharma, a Developer & Researcher 🚀 from India.
+[![Github](https://img.shields.io/badge/-Github-000?style=flat&logo=Github&logoColorshields.io/badge/-LinkedIn-blue?style=flat&logo=Linkedin&logotps://img.shields.io/badge/-Gmail-c14438?style=flat"55%" align="right" alt="Github" src="https://raw.githubusercontent.com/onimur/.github/master/.resources/git-header.svg" />
 
-<h3>Hey there <img src="https://camo.githubusercontent.com/e8e7b06ecf583bc040eb60e44eb5b8e0ecc5421320a92929ce21522dbc34c891/68747470733a2f2f6d656469612e67697068792e636f6d2f6d656469612f6876524a434c467a6361737252346961377a2f67697068792e676966", width=39px>,</h3>
+👨🏽‍💻 I'm currently working on SpatioFlow - a Spatio-Temporal Forecasting System
 
-A bit about Myself, I am <b>Jatin Sharma</b> pursuing a <b>Computer Science Degree</b> from University Institue of Technology, Himachal Pradesh University Shimla. As of now, I am focused on <b>web development</b> but still, wish to explore many fields. ⚡
+🌱 I'm currently learning Advanced Machine Learning and Graph Neural Networks
 
-<h1 align="center">Tech-Stack</h1>
+👯 I'm looking to collaborate on Machine Learning and AI projects
 
-I am learning webdevelopment and having knowledge of HTML,CSS & Javascript. Beside that I am also learning Java and also has basic knowledge of C++. I also know how to use Vs-Code for doing contribution on github and also learning git.
+🔭 Pursuing MS (Research) in CSE at IIT Indore with 9.83/10 CGPA
 
-<p align="center"> 
-<img alt="C" src="https://img.shields.io/badge/c-%2300599C.svg?&style=for-the-badge&logo=c&logoColor=white" />
-<img alt="C++" src="https://img.shields.io/badge/c++-%2300599C.svg?&style=for-the-badge&logo=c%2B%2B&ogoColor=white" />
- <img alt="Java" src="https://img.shields.io/badge/java-%23ED8B00.svg?&style=for-the-badge&logo=java&logoColor=white" />
-<img alt="HTML5" src="https://img.shields.io/badge/html5-%23E34F26.svg?&style=for-the-badge&logo=html5&logoColor=white" />
- <img alt="CSS3" src="https://img.shields.io/badge/css3-%231572B6.svg?&style=for-the-badge&logo=css3&logoColor=white" />
- <img alt="JavaScript" src="https://img.shields.io/badge/javascript-%23323330.svg?&style=for-the-badge&logo=javascript&logoColor=%23F7DF1E" />
-</p>
+💬 Ask me about Machine Learning, Data Science, or Cloud Computing
 
-I believe in implementing the knowledge which you have. Projects play a major role in showcasing your skills. They help in predicting skills of a person. So let's have a look at my project section.
+⚡️ Fun-Fact: I've cleared the GATE exam multiple times with impressive ranks
 
-<h1 align="center">Projects</h1>
+📫 How to reach me: [Your email here]
 
+Languages and Tools:
 
-
-
-| Project Name      | Description | 
-| :---:        |    :----   |  
-| [Front End Projects](https://github.com/Jatin-Sharma-11/front-end-projects)     | In this repository I will be adding all my front end project which will include implementation of Html,css & Javascript       | 
-| [LinkLog](https://github.com/Jatin-Sharma-11/LinkLog)   | This is my own static website where I link all the links I need to share can check preview [https://jatinsharma.netlify.app](https://jatinsharma.netlify.app)        | 
-| [Tribute-To-Contributors](https://github.com/Jatin-Sharma-11/Tribute-To-Contributors) | In this repository with the help of Github api I have created one html file give tribute to your project contributors |
-| [Personal Portfolio](https://github.com/Jatin-Sharma-11/personal-portfolio) | This is my personal personal-portfolio website. Have a look [https://](https://jatinsharma.netlify.app) |
-
-<hr>
-<h2 align="center">Communication - the human connection - is the key to personal and success !</h2>
-
-<h1 align="center">Let's Get Connected</h1>
-
-<div align="center">
+<p> <a href="https://github.com"> <img width="55%" align="right" alt="Jatin's github stats" src="https://github-readme-stats.vercel.app/api?username=jatinsharma&show_icons=true&hide_border=true" /> </a>
+<code><img width="10%" src="https://www.vectorlogo.zone/logos/python/python-ar21.svg"></code>
+<code><img width="10%" src="https://www.vectorlogo.zone/logos/tensorflow/tensorflow-ar21.svg"></code>
+<code><img width="10%" src="https://www.vectorlogo.zone/logos/pytorch/pytorch-ar21.svg"></code>
 
 
-<a  href="https://www.linkedin.com/in/jatin-sharma-87ab75204/" target="_blank"><img alt="LinkedIn" src="https://img.shields.io/badge/linkedin%20-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" /></a>
-<a href="https://twitter.com/jatin_sharma_d" target="_blank"><img src="https://img.shields.io/badge/twitter-%2300acee.svg?&style=for-the-badge&logo=twitter&logoColor=white&alt=twitter" /></a>
-<a href="mailto:jatinsaroch11@gmail.com"><img  alt="Gmail" src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" /><a href="https://www.facebook.com/people/Jatin-Sharma/100060947833629/" target="_blank">
-<img alt="Facebook" src="https://img.shields.io/badge/Facebook%20-%231877F2.svg?&style=for-the-badge&logo=Facebook&logoColor=white" />
+<code><img width="10%" src="https://www.vectorlogo.zone/logos/numpy/numpy-ar21.svg"></code>
+<code><img width="10%" src="https://www.vectorlogo.zone/logos/reactjs/reactjs-ar21.svg"></code>
+<code><img width="10%" src="https://www.vectorlogo.zone/logos/firebase/firebase-ar21.svg"></code>
 
-</div>
 
-<h1 align="center">Github Stats</h1>
- <div align="center" >
-<img width="40%" src="https://github-readme-stats.vercel.app/api?username=Jatin-Sharma-11&show_icons=true"> <img width="40%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Jatin-Sharma-11&layout=compact">
-</div> 
-<div align="center">
- <img src="https://github-readme-streak-stats.herokuapp.com/?user=Jatin-Sharma-11&)"><img src="https://activity-graph.herokuapp.com/graph?username=Jatin-Sharma-11&bg_color=FFFFFF&color=000000&line=000000&point=00FF00"></div>
+<code><img width="10%" src="https://www.vectorlogo.zone/logos/mysql/mysql-ar21.svg"></code>
+<code><img width="10%" src="https://www.vectorlogo.zone/logos/google_cloud/google_cloud-ar21.svg"></code>
+<code><img width="10%" src="https://www.vectorlogo.zone/logos/opencv/opencv-ar21.svg"></code>
+
+
+<code><img width="10%" src="https://www.vectorlogo.zone/logos/git-scm/git-scm-ar21.svg"></code>
+<code><img width="10%" src="https://www.vectorlogo.zone/logos/linux/linux-ar21.svg"></code>
+<code><img width="10%" src="https://www.vectorlogo.zone/logos/jupyter/jupyter-ar21.svg"></code>
+
+</p> <p align="center"> <img alt="ViewCount" src="https://views.whatilearened.today/views/github/jatinsharma/jatinsharma.svg" /> </p>
+Education
+MS (Research) CSE - Indian Institute of Technology, Indore (2024-2026) - CGPA: 9.83/10
+
+B.Tech. CSE - University Institute of Technology, HPU, Shimla (2020-2024) - CGPA: 9.04/10
+
+Senior Secondary - CBSE Board (2020) - 94.8%
+
+Secondary - CBSE Board (2018) - 88.8%
+
+Projects
+<p align="center"> <a href="https://github.com"> <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=jatinsharma&repo=SpatioFlow" /> </a> <a href="https://github.com"> <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=jatinsharma&repo=Sentiment360" /> </a> </p> <!-- This readme was created by Jatin Sharma -->
