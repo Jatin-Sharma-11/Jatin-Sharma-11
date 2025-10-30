@@ -1,4 +1,3 @@
-
 # Hi there, I'm Jatin Sharma 👋
 
 <a href="https://github.com/Jatin-Sharma-11">
@@ -12,7 +11,6 @@ I'm a passionate self-taught **Full-Stack Web Developer** and **Software Enginee
 - 🎓 I'm associated with the **Indian Institute of Technology, Indore**.
 - 📍 I'm based in Madhya Pradesh, India.
 - 🌱 I’m currently focused on web development and exploring the world of AI/ML.
-- 💼 You can check out my personal portfolio: [jatinsharma.netlify.app](https://jatinsharma.netlify.app)
 
 ## 💻 My Tech Stack
 
@@ -61,8 +59,11 @@ Here are some of the projects I've pinned on my profile:
 
 You can find me on:
 
-- **Portfolio:** [jatinsharma.netlify.app](https://jatinsharma.netlify.app)
-- **X (Twitter):** [@jatin_sharma_d](https://twitter.com/jatin_sharma_d)
+- 🔗 **LinkedIn:** [jatin-sharma-87ab75204](https://www.linkedin.com/in/jatin-sharma-87ab75204/)
+- 💻 **LeetCode:** [Jatin-Sharma](https://leetcode.com/u/Jatin-Sharma/)
+- ⚔️ **Codeforces:** [jacksparrow_11](https://codeforces.com/profile/jacksparrow_11)
+- 🐦 **X (Twitter):** [@jatin_sharma_d](https://twitter.com/jatin_sharma_d)
+- 📸 **Instagram:** [@jatin_sharma_d](https://www.instagram.com/jatin_sharma_d/)
 
 ---
 
