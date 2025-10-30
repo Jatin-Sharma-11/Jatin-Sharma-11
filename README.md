@@ -67,4 +67,3 @@ You can find me on:
 
 ---
 
-*Feel free to edit and customize this to your-liking!*
