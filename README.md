@@ -1,7 +1,7 @@
 <!-- Banner -->
 <p align="center">
   <img 
-    src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=32&duration=2500&pause=900&color=00C7FF&center=true&vCenter=true&width=900&lines=Hey+There%2C+I'm+Jatin+Sharma+%F0%9F%91%8B;Data+Science+Enthusiast;Machine+Learning+Practitioner;Deep+Learning+Explorer;Passionate+Coder+%26+Problem+Solver" 
+    src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=32&duration=2500&pause=900&color=00C7FF&center=true&vCenter=true&width=900&lines=Hey+There%2C+I'm+Jatin+Sharma+%F0%9F%91%8B;Data+Scientist;Machine+Learning+Practitioner;Deep+Learning+Researcher;Passionate+Coder+%26+Problem+Solver" 
     alt="Typing Animation Banner" 
   />
 </p>
