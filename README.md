@@ -27,47 +27,6 @@ I'm a passionate **Full-Stack Web Developer** and **AI/ML Engineer in progress**
 
 ---
 
-# 🧠 **Tech Stack**
-
-### **Languages**
-![Python](https://img.shields.io/badge/Python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)
-![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
-
-### **Web Development**
-![Astro](https://img.shields.io/badge/Astro-FF5D01?style=for-the-badge&logo=astro&logoColor=white)
-![Node](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=node.js&logoColor=white)
-![Express](https://img.shields.io/badge/Express.js-000?style=for-the-badge&logo=express&logoColor=white)
-
-### **AI / ML**
-![Machine Learning](https://img.shields.io/badge/Machine%20Learning-blueviolet?style=for-the-badge)
-![Transformers](https://img.shields.io/badge/Transformers-yellow?style=for-the-badge)
-![BERT](https://img.shields.io/badge/BERT-black?style=for-the-badge)
-
-### **Tools**
-![Jupyter](https://img.shields.io/badge/Jupyter-F37626?style=for-the-badge&logo=jupyter&logoColor=white)
-![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
-
----
-
-# 🌟 **Top Projects**
-
-### 🔹 **[Machine-Learning-Short-Projects](https://github.com/Jatin-Sharma-11/Machine-Learning-Short-Projects)**
-A curated collection of ML mini-projects.
-
-### 🔹 **[AIML-018-IITI-SoC](https://github.com/Tejanikhil-MSR/AIML-018-IITI-SoC) — Contribution**
-A RAG-powered chatbot built with **Pathway**, with real-time streaming.
-
-### 🔹 **[SentimentAnalysis](https://github.com/Jatin-Sharma-11/SentimentAnalysis)**
-All sentiment analysis works & experiments.
-
-### 🔹 **[Chatify](https://github.com/Jatin-Sharma-11/Chatify)**
-A real-time chat application built for seamless communication.
-
-### 🔹 **[itsjatin](https://github.com/Jatin-Sharma-11/itsjatin)**
-A sleek personal portfolio built using **Astro**.
-
----
-
 # 📊 **GitHub Stats**
 
 <p align="center">
