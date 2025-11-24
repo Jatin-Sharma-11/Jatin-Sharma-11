@@ -3,11 +3,11 @@
   <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=32&pause=1000&color=00F7FF&center=true&vCenter=true&width=900&lines=Hey+There%2C+I'm+Jatin+Sharma+%F0%9F%91%8B;Full-Stack+Developer+%7C+AI+%2F+ML+Enthusiast;Always+Building+%7C+Always+Learning" alt="Typing SVG" />
 </p>
 
-<p align="center">
+<!-- <p align="center">
   <a href="https://github.com/Jatin-Sharma-11">
     <img src="https://avatars.githubusercontent.com/u/77922760?v=4" width="170" style="border-radius:50%;border:3px solid #00eaff;" />
   </a>
-</p>
+</p> -->
 
 ---
 
