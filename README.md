@@ -31,7 +31,6 @@ I'm a passionate **Full-Stack Web Developer** and **AI/ML Engineer in progress**
 
 <p align="center">
   <img width="48%" src="https://github-readme-stats.vercel.app/api?username=Jatin-Sharma-11&show_icons=true&theme=tokyonight&count_private=true" />
-  <img width="48%" src="https://github-readme-streak-stats.herokuapp.com/?user=Jatin-Sharma-11&theme=tokyonight" />
 </p>
 
 <p align="center">
