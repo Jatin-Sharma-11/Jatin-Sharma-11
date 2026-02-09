@@ -27,18 +27,6 @@ I'm a passionate **Full-Stack Web Developer** and **AI/ML Engineer in progress**
 
 ---
 
-# 📊 **GitHub Stats**
-
-<p align="center">
-  <img width="48%" src="https://github-readme-stats.vercel.app/api?username=Jatin-Sharma-11&show_icons=true&theme=tokyonight&count_private=true" />
-</p>
-
-<p align="center">
-  <img width="40%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Jatin-Sharma-11&layout=compact&theme=tokyonight" />
-</p>
-
----
-
 # 🌐 **Connect with Me**
 
 <p align="center">
